@@ -1,0 +1,48 @@
+img{
+	margin:auto;
+	display:block;	
+}
+body{
+	background-image:url('image/me2.jpg');
+	text-align:center;
+}
+ul{
+	text-align:center;
+}
+li{
+	color:blue;
+	font-size:100%
+	text-align:center;
+}
+h1{
+	text-align:center;
+	color:red;	
+	font-size;200%
+}
+h2{
+	text-align:center;
+	color:red;
+	font-size:200%;
+}
+h3{
+	text-align:center;
+	color:red;
+	font-size:200%;
+}
+#sam{
+	text-align:center;
+	color:red;
+}
+#jo{
+	color:white;
+}
+p{
+	color:blue;
+	text-align:center;
+}
+input[type=text]{
+	color:blue;
+}
+form{
+	color:red;
+}
